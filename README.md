@@ -1,6 +1,7 @@
-# Final project for the CoderHouse Javascript course. It uses:
+## Final project for the CoderHouse Javascript course. It uses:
 
 - Javascript Vanilla
+- Async/Await
 - Fetch API
 - LocalStorage
 
