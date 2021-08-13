@@ -1,6 +1,4 @@
-# furnistar-coder
-
-## Final project for the CoderHouse Javascript course. It uses:
+# Final project for the CoderHouse Javascript course. It uses:
 
 - Javascript Vanilla
 - Fetch API
