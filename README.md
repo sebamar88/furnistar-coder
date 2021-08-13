@@ -1,4 +1,4 @@
-## Final project for the CoderHouse Javascript course. It uses:
+## Final project for the CoderHouse Javascript course. Furniture ecommerce simulator, it uses:
 
 - Javascript Vanilla
 - Async/Await
